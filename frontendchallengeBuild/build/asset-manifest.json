@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a57e05c.chunk.css",
+    "main.js": "/static/js/main.c8bc9b3f.chunk.js",
+    "main.js.map": "/static/js/main.c8bc9b3f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.fb74edd9.chunk.js": "/static/js/2.fb74edd9.chunk.js",
+    "static/js/2.fb74edd9.chunk.js.map": "/static/js/2.fb74edd9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b98f51c1e63c5819eeb0aa2c76e93b1e.js": "/precache-manifest.b98f51c1e63c5819eeb0aa2c76e93b1e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7a57e05c.chunk.css.map": "/static/css/main.7a57e05c.chunk.css.map",
+    "static/media/formula1.jpg": "/static/media/formula1.b3de3354.jpg"
+  }
+}
